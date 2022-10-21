@@ -26,6 +26,5 @@ Mediante la implementación del patrón de diseño Proxy crearemos un mecanismo 
 
 ### Ejecucion
 
-```
-gradle run
-```
+* Cargue las Extensiones Java de VS Code correcta y completamente.
+* En la clase principal de clic sobre el botón Play.
